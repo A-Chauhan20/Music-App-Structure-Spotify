@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Song List -->
+    <dimen name="song_list_image_width">85dp</dimen>
+    <dimen name="song_list_image_height">85dp</dimen>
+    <dimen name="song__list_image_padding">6dp</dimen>
+    <dimen name="song_list_padding_start_end">6dp</dimen>
+</resources>
+
